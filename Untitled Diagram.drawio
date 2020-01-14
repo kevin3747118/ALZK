@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T01:10:37.340Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="ROIpKatskzZMkGjCsg30" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-14T01:15:34.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="1z5rX6ogcGJ-c9oour6R" version="12.5.1" type="github">
   <diagram id="8yOyhsPXt7Nrbi817sak" name="Page-1">
     <mxGraphModel dx="2033" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,8 +75,8 @@
         </mxCell>
         <mxCell id="4FmLFfHMSXslGxtPDlLP-28" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="390" as="sourcePoint"/>
-            <mxPoint x="-100" y="390" as="targetPoint"/>
+            <mxPoint x="270" y="380" as="sourcePoint"/>
+            <mxPoint x="-100" y="380" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="4FmLFfHMSXslGxtPDlLP-30" value="User sign in with their Kapture account, and 4 digits Confirmation code&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -93,12 +93,12 @@
         </mxCell>
         <mxCell id="4FmLFfHMSXslGxtPDlLP-35" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="480" as="sourcePoint"/>
-            <mxPoint x="630" y="480" as="targetPoint"/>
+            <mxPoint x="285" y="460" as="sourcePoint"/>
+            <mxPoint x="635" y="460" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="4FmLFfHMSXslGxtPDlLP-36" value="return authentication successfully message" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="450" width="240" height="20" as="geometry"/>
+          <mxGeometry x="285" y="430" width="240" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="4FmLFfHMSXslGxtPDlLP-38" value="Alexa Skill Kit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="789" width="150" height="40" as="geometry"/>
