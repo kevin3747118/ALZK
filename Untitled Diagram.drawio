@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T01:17:45.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="l2GeReWtbn-Aq9E6P866" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-14T01:26:59.797Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="C0DkqF0BaQCHv0s2W7nD" version="12.5.1" type="github">
   <diagram id="8yOyhsPXt7Nrbi817sak" name="Page-1">
     <mxGraphModel dx="2033" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,21 +84,21 @@
         </mxCell>
         <mxCell id="4FmLFfHMSXslGxtPDlLP-33" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-100" y="440" as="sourcePoint"/>
-            <mxPoint x="271" y="440" as="targetPoint"/>
+            <mxPoint x="-110" y="450" as="sourcePoint"/>
+            <mxPoint x="261" y="450" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="4FmLFfHMSXslGxtPDlLP-34" value="account&#39;s session-id, save session-id and cCode into Auth0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="410" width="330" height="20" as="geometry"/>
+          <mxGeometry x="-109" y="420" width="330" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="4FmLFfHMSXslGxtPDlLP-35" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="285" y="460" as="sourcePoint"/>
-            <mxPoint x="635" y="460" as="targetPoint"/>
+            <mxPoint x="285" y="470" as="sourcePoint"/>
+            <mxPoint x="635" y="470" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="4FmLFfHMSXslGxtPDlLP-36" value="return authentication successfully message" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="430" width="240" height="20" as="geometry"/>
+          <mxGeometry x="285" y="440" width="240" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="4FmLFfHMSXslGxtPDlLP-38" value="Alexa Skill Kit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="789" width="150" height="40" as="geometry"/>
@@ -282,6 +282,9 @@
         </mxCell>
         <mxCell id="4FmLFfHMSXslGxtPDlLP-87" value="Oauth2.0 Process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="278" y="158" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-88" value="[If sign in successfully]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-109" y="400" width="130" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
