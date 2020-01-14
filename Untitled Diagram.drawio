@@ -1,1 +1,91 @@
-<mxfile host="www.draw.io" modified="2020-01-13T23:47:00.054Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" version="12.5.1" etag="8T6p5_ULaEVBiMdZBIQ0" type="github"><diagram id="8yOyhsPXt7Nrbi817sak">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-14T00:15:15.973Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="VEMS41uIeROpivdS8EL6" version="12.5.1" type="github">
+  <diagram id="8yOyhsPXt7Nrbi817sak" name="Page-1">
+    <mxGraphModel dx="2033" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-2" value="Alexa App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="230" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-4" value="Auth0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="360" as="sourcePoint"/>
+            <mxPoint x="280" y="360" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-6" value="Auth0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="570" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-7" value="Alexa App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="564" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-10" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4FmLFfHMSXslGxtPDlLP-7" target="4FmLFfHMSXslGxtPDlLP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="390" as="sourcePoint"/>
+            <mxPoint x="620" y="340" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-14" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274.5" y="570" as="sourcePoint"/>
+            <mxPoint x="275" y="270" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-16" value="open Auth0 redirect URL which contains user&#39;s authorization code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="330" width="360" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-19" value="Kapture App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="230" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-20" value="Kapture App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="564" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-21" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4FmLFfHMSXslGxtPDlLP-20" target="4FmLFfHMSXslGxtPDlLP-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="390" as="sourcePoint"/>
+            <mxPoint x="930" y="340" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="330" as="sourcePoint"/>
+            <mxPoint x="660" y="330" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-23" value="User click works with Alexa, redirect to Alexa App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="300" width="280" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-24" value="Cloud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="230" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-25" value="Cloud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="570" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-26" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-35.5" y="570" as="sourcePoint"/>
+            <mxPoint x="-35" y="270" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-27" value="[If user enables Kapture Skill]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="300" width="170" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-28" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="390" as="sourcePoint"/>
+            <mxPoint x="-90" y="390" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-29" value="open Auth0 redirect URL which contains user&#39;s authorization code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="360" width="360" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="4FmLFfHMSXslGxtPDlLP-30" value="[If user sign in successfully]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="330" width="160" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
