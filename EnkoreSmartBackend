@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T06:39:48.928Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="cwMrS7_eqt-zgeAcIR50" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T07:24:47.204Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="yPopa6k2FiexhI76gGZM" version="17.0.0" type="github">
   <diagram id="vJMbNy7KLuH_I7ze44p9" name="Page-1">
     <mxGraphModel dx="1258" dy="-565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -684,12 +684,12 @@
         </mxCell>
         <mxCell id="9-QDobozABueHI0B9OR4-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2495" y="2944.5" as="sourcePoint" />
-            <mxPoint x="2755" y="2944.5" as="targetPoint" />
+            <mxPoint x="2496" y="2775" as="sourcePoint" />
+            <mxPoint x="2756" y="2775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-37" value="點擊 email 連結打開 APP，&lt;br&gt;並驗證 vCode" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2506" y="2894.5" width="240" height="50" as="geometry" />
+        <mxCell id="9-QDobozABueHI0B9OR4-37" value="request&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2587" y="2735" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9-QDobozABueHI0B9OR4-38" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Grant lockplace access V3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2380" y="2605" width="230" height="20" as="geometry" />
@@ -708,51 +708,6 @@
         </mxCell>
         <mxCell id="9-QDobozABueHI0B9OR4-42" value="Enkore Backend" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2667" y="2655" width="202" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-43" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=4;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2750" y="2825" as="sourcePoint" />
-            <mxPoint x="2500" y="2825" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-44" value="send email with token binded url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2491" y="2775" width="270" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-45" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=4;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2751" y="2873.5" as="sourcePoint" />
-            <mxPoint x="2501" y="2873.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-46" value="send SMS with vCode" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2526" y="2833.5" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-47" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=4;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2780" y="2984" as="sourcePoint" />
-            <mxPoint x="3040" y="2984" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-48" value="publish registration status &lt;br&gt;if success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="2935" width="220" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-49" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=4;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3040" y="3055" as="sourcePoint" />
-            <mxPoint x="2780" y="3055" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-50" value="generate aLocks LMK, and send&lt;br&gt;&amp;nbsp;to enkore backend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2775" y="3005" width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-51" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=4;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2756" y="3105" as="sourcePoint" />
-            <mxPoint x="2496" y="3105" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-52" value="收到驗證結果，並做相對應處理;&lt;br&gt;驗證成功的話 APP List aLocks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2491" y="3045" width="270" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
