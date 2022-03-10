@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T10:20:26.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="gjC2_w8biuUXd1MkBKx7" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T10:37:39.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="JnpVioBok6DDvFDqwRHx" version="17.0.0" type="github">
   <diagram id="vJMbNy7KLuH_I7ze44p9" name="Page-1">
     <mxGraphModel dx="1258" dy="-565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -700,8 +700,8 @@
             <mxPoint x="2780" y="2775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-40" value="generate aLock LMK, and send&lt;br&gt;&amp;nbsp;to enkore backend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2775" y="2725" width="270" height="50" as="geometry" />
+        <mxCell id="9-QDobozABueHI0B9OR4-40" value="generate aLock LMK, and send&lt;br&gt;&amp;nbsp;to enkore backend (pCode, mac)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="2725" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9-QDobozABueHI0B9OR4-41" value="Enkore &lt;br&gt;Server" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2993" y="2655" width="120" height="60" as="geometry" />
