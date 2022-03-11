@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T01:01:18.296Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uMAselWBqot7ITOMkgzN" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T01:20:08.905Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="knUqNY9T3F6WkaP9mp91" version="15.8.2" type="github">
   <diagram id="vJMbNy7KLuH_I7ze44p9" name="Page-1">
     <mxGraphModel dx="1426" dy="-484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -758,7 +758,7 @@
           <mxGeometry x="2667" y="3350" width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9AtwDO_3Lfdx6Icy-f21-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1. Enkore Backend 統一產生、管理 mkid (mobile)&lt;br&gt;2. Enkore Backend 寄 email、SMS&lt;br&gt;3. Enkore Backend 驗證帳號、verification code&lt;br&gt;4. 加值服務延伸&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3150" y="1910" width="410" height="70" as="geometry" />
+          <mxGeometry x="3140" y="1926" width="410" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9AtwDO_3Lfdx6Icy-f21-2" value="Client" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2430" y="4010" width="120" height="60" as="geometry" />
