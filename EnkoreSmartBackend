@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T06:37:53.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="UZiComG0EI7O1xSY6-fx" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T06:48:47.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="noKAQCrGMGNxUQHOGmab" version="17.1.2" type="github">
   <diagram id="vJMbNy7KLuH_I7ze44p9" name="Page-1">
     <mxGraphModel dx="1666" dy="-454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -730,26 +730,8 @@
             <mxPoint x="2489.5" y="3410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-57" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=4;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2496" y="3470" as="sourcePoint" />
-            <mxPoint x="2756" y="3470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-58" value="request&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="2587" y="3430" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="9-QDobozABueHI0B9OR4-59" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Get LMK by lock place type: unit V3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2345" y="3300" width="300" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-60" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=4;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3040" y="3470" as="sourcePoint" />
-            <mxPoint x="2780" y="3470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-61" value="generate aLock LMK, and send&lt;br&gt;&amp;nbsp;to enkore backend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="2775" y="3420" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9-QDobozABueHI0B9OR4-62" value="Enkore &lt;br&gt;Server" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2993" y="3350" width="120" height="60" as="geometry" />
