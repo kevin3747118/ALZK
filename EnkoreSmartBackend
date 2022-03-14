@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T06:48:47.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="noKAQCrGMGNxUQHOGmab" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T07:02:17.469Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="Xq3Jb4KNTNVjiSaN5Qk7" version="17.1.2" type="github">
   <diagram id="vJMbNy7KLuH_I7ze44p9" name="Page-1">
     <mxGraphModel dx="1666" dy="-454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -618,8 +618,8 @@
         </mxCell>
         <mxCell id="9-QDobozABueHI0B9OR4-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2715" y="2090" as="sourcePoint" />
-            <mxPoint x="2465" y="2090" as="targetPoint" />
+            <mxPoint x="2716" y="2080" as="sourcePoint" />
+            <mxPoint x="2466" y="2080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9-QDobozABueHI0B9OR4-23" value="send email with token binded url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
