@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T01:38:01.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="jkiW76SyqeE14ZxWUoSa" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T01:39:10.176Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="zUcPmvGY7mhtcYMcR4l7" version="17.1.3" type="github">
   <diagram id="vJMbNy7KLuH_I7ze44p9" name="Page-1">
     <mxGraphModel dx="1170" dy="-520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -640,8 +640,8 @@
             <mxPoint x="3005" y="2249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9-QDobozABueHI0B9OR4-27" value="publish registration status &lt;br&gt;if success (MQTT)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="2765" y="2200" width="220" height="50" as="geometry" />
+        <mxCell id="9-QDobozABueHI0B9OR4-27" value="publish registration status &lt;br&gt;if success (MQTT) with VCID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="2750" y="2200" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9-QDobozABueHI0B9OR4-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
