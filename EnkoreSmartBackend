@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T02:15:23.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8v8TzeVlNZkG4AsIY3vJ" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T02:34:22.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="RZdgddoEyXuGoCL_j0Pq" version="20.6.0" type="github">
   <diagram id="vJMbNy7KLuH_I7ze44p9" name="Page-1">
-    <mxGraphModel dx="1495" dy="-458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="-597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -835,7 +835,7 @@
             <mxPoint x="426" y="3910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8zRC_hLn-Q-yp-gA1_7Y-20" value="&lt;h1&gt;Cloud features&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Disable - &lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;固定&lt;/font&gt;排程做備份，備份不上傳到 Cloud&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Enable - &lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;彈性&lt;/font&gt;排程做備份，在 MF-Admin 上設定 cron job，&lt;/span&gt;備份會上傳到 Cloud&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8zRC_hLn-Q-yp-gA1_7Y-20" value="&lt;h1&gt;Cloud features&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Disable - &lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;固定&lt;/font&gt;排程做備份，備份不上傳到 Cloud&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Enable - &lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;彈性&lt;/font&gt;排程做備份，在 PM-Web上設定 cron job，&lt;/span&gt;備份會上傳到 Cloud&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1384" y="3610" width="355" height="300" as="geometry" />
         </mxCell>
         <mxCell id="8zRC_hLn-Q-yp-gA1_7Y-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=4;" edge="1" parent="1">
