@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T04:45:52.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="KMZ9ssfa02Wdv1vy6QkG" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T04:48:47.798Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="h4-g2-5SbUosPUF7F1-d" version="20.8.23" type="github">
   <diagram name="第1頁" id="pTdbA5UM3i_hhNW9NHbF">
     <mxGraphModel dx="1127" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,17 +47,8 @@
         <mxCell id="v_c1Cu9leKUmqeBzcQBM-59" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;ALB&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v_c1Cu9leKUmqeBzcQBM-60" value="" style="group;fillColor=#dae8fc;strokeColor=none;strokeWidth=2;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="220" width="950" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="v_c1Cu9leKUmqeBzcQBM-26" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;HiveMQ&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#000000;" vertex="1" parent="v_c1Cu9leKUmqeBzcQBM-60">
-          <mxGeometry width="950" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="v_c1Cu9leKUmqeBzcQBM-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/spring-30/30/Honey_Bee-128.png;fontSize=18;" vertex="1" parent="v_c1Cu9leKUmqeBzcQBM-60">
-          <mxGeometry x="360" y="5" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="v_c1Cu9leKUmqeBzcQBM-61" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;Subscriber&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="870" y="501.5" width="120" height="620" as="geometry" />
+          <mxGeometry x="870" y="450" width="120" height="671.5" as="geometry" />
         </mxCell>
         <mxCell id="v_c1Cu9leKUmqeBzcQBM-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="830.5" width="400" height="290" as="geometry" />
@@ -94,6 +85,9 @@
             <mxPoint x="590" y="820" as="sourcePoint" />
             <mxPoint x="590" y="750" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="v_c1Cu9leKUmqeBzcQBM-26" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;HiveMQ&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#000000;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="726.43" width="675.71" height="118.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
