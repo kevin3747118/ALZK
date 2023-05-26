@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T05:40:29.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="OpSs5MwrXxnwraI0a6-I" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T05:40:46.949Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZiEgLBC2YKTihxx7z5ih" version="20.8.23" type="github">
   <diagram name="第1頁" id="pTdbA5UM3i_hhNW9NHbF">
     <mxGraphModel dx="852" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="v_c1Cu9leKUmqeBzcQBM-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Kapture Integration Services&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1145" y="178" width="271" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v_c1Cu9leKUmqeBzcQBM-8" value="Core" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="v_c1Cu9leKUmqeBzcQBM-8" value="Core" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#0000FF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1169.5" y="224" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v_c1Cu9leKUmqeBzcQBM-20" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fontSize=18;" vertex="1" parent="1">
@@ -53,7 +53,7 @@
         <mxCell id="v_c1Cu9leKUmqeBzcQBM-67" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Kapture API&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1149" y="748" width="171" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v_c1Cu9leKUmqeBzcQBM-68" value="D2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="v_c1Cu9leKUmqeBzcQBM-68" value="D2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#0000FF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1170" y="794" width="80" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="v_c1Cu9leKUmqeBzcQBM-70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;ALB&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -171,7 +171,7 @@
         <mxCell id="v_c1Cu9leKUmqeBzcQBM-104" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Kapture Integration Services&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1155" y="1548" width="271" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v_c1Cu9leKUmqeBzcQBM-105" value="Core" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="v_c1Cu9leKUmqeBzcQBM-105" value="Core" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#0000FF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1179.5" y="1594" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v_c1Cu9leKUmqeBzcQBM-106" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fontSize=18;" vertex="1" parent="1">
