@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T05:32:50.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_xXZrYc0ILgGxJS0XBWM" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T00:54:11.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6_PV8nPmpqEgYFfveaph" version="18.0.7" type="github">
   <diagram name="第1頁" id="pTdbA5UM3i_hhNW9NHbF">
     <mxGraphModel dx="1074" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -504,6 +504,9 @@
               <mxPoint x="3230" y="1960" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XDWvyUb1h6gLbG983VdY-63" value="&lt;h1 style=&quot;font-size: 32px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;紅色 - KIS 專案開發部分&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 32px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;黑色 - &lt;/font&gt;&lt;font style=&quot;font-size: 32px;&quot; color=&quot;#000000&quot;&gt;既有架構&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="3550" y="1410" width="360" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
