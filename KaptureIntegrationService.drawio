@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T00:49:41.533Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Y2lPYaXlCHp2MaUG8cDx" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T00:49:57.927Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="x0SNIhMw3PN-VxgJfHHB" version="21.3.5" type="github">
   <diagram name="第1頁" id="pTdbA5UM3i_hhNW9NHbF">
     <mxGraphModel dx="820" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -472,7 +472,7 @@
         <mxCell id="XDWvyUb1h6gLbG983VdY-63" value="&lt;h1 style=&quot;font-size: 32px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;紅色 - KIS 專案開發&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 32px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;黑色 - &lt;/font&gt;&lt;font style=&quot;font-size: 32px;&quot; color=&quot;#000000&quot;&gt;既有架構&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="3308" y="1448" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="XDWvyUb1h6gLbG983VdY-65" value="&lt;font color=&quot;#ff3333&quot;&gt;KIS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="XDWvyUb1h6gLbG983VdY-65" value="&lt;font color=&quot;#ff3333&quot;&gt;KIS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="2970" y="1559" width="90" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="XDWvyUb1h6gLbG983VdY-68" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 18px;&quot;&gt;KIS DB&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=32;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
