@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T22:26:58.861Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FylhA0H1dhy8LyccW2Xq" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T00:19:15.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="c6ob4l1S5xZNyO3DisNa" version="21.3.5" type="github">
   <diagram name="第1頁" id="pTdbA5UM3i_hhNW9NHbF">
     <mxGraphModel dx="820" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -356,21 +356,6 @@
         <mxCell id="XDWvyUb1h6gLbG983VdY-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2780" y="1794.75" width="280" height="104.5" as="geometry" />
         </mxCell>
-        <mxCell id="XDWvyUb1h6gLbG983VdY-23" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2770" y="1990" width="530" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="XDWvyUb1h6gLbG983VdY-24" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=18;" parent="XDWvyUb1h6gLbG983VdY-23" vertex="1">
-          <mxGeometry x="66.25" y="54.666666666666664" width="112.625" height="86.22222222222221" as="geometry" />
-        </mxCell>
-        <mxCell id="XDWvyUb1h6gLbG983VdY-25" value="Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=18;" parent="XDWvyUb1h6gLbG983VdY-23" vertex="1">
-          <mxGeometry x="344.5" y="53.33333333333333" width="119.25" height="88.88888888888889" as="geometry" />
-        </mxCell>
-        <mxCell id="XDWvyUb1h6gLbG983VdY-26" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=18;fontColor=#000000;fillColor=none;" parent="XDWvyUb1h6gLbG983VdY-23" vertex="1">
-          <mxGeometry x="16.5625" width="496.875" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="XDWvyUb1h6gLbG983VdY-27" value="Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" parent="XDWvyUb1h6gLbG983VdY-23" vertex="1">
-          <mxGeometry x="66.25" y="8.88888888888889" width="79.5" height="26.666666666666664" as="geometry" />
-        </mxCell>
         <mxCell id="XDWvyUb1h6gLbG983VdY-29" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Kapture core API&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2799.75" y="1827" width="250.5" height="40" as="geometry" />
         </mxCell>
@@ -561,6 +546,21 @@
         </mxCell>
         <mxCell id="OuAUuCn335eV1-4YZ0QD-18" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;HOM&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OuAUuCn335eV1-4YZ0QD-28">
           <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OuAUuCn335eV1-4YZ0QD-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2786.5625" y="1990" width="496.875" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XDWvyUb1h6gLbG983VdY-26" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=18;fontColor=#000000;fillColor=none;" parent="OuAUuCn335eV1-4YZ0QD-29" vertex="1">
+          <mxGeometry width="496.875" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XDWvyUb1h6gLbG983VdY-24" value="KP DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=18;" parent="OuAUuCn335eV1-4YZ0QD-29" vertex="1">
+          <mxGeometry x="49.6875" y="54.66666666666674" width="112.625" height="86.22222222222221" as="geometry" />
+        </mxCell>
+        <mxCell id="XDWvyUb1h6gLbG983VdY-25" value="KP Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=18;" parent="OuAUuCn335eV1-4YZ0QD-29" vertex="1">
+          <mxGeometry x="327.9375" y="53.33333333333326" width="119.25" height="88.88888888888889" as="geometry" />
+        </mxCell>
+        <mxCell id="XDWvyUb1h6gLbG983VdY-27" value="Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" parent="OuAUuCn335eV1-4YZ0QD-29" vertex="1">
+          <mxGeometry x="49.6875" y="8.888888888888914" width="79.5" height="26.666666666666664" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
