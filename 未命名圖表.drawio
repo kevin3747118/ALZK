@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T02:31:11.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CegRSmm1Bm3Msg00cM7V" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T02:33:21.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="g7fute85fGWQhkxkVZdS" version="21.3.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1007" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-0" value="New owner request to reset lock" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="180" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nUuFuTUnywf7_QC4D2Dj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-1" target="nUuFuTUnywf7_QC4D2Dj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-1" value="Verification process" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="270" width="120" height="40" as="geometry" />
         </mxCell>
@@ -58,41 +61,44 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-3" value="Pass the verification?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="440" width="100" height="80" as="geometry" />
+          <mxGeometry x="570" y="530" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-6" target="nUuFuTUnywf7_QC4D2Dj-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-6" value="Send deep link to new owner&#39;s email" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="880" as="targetPoint" />
+            <mxPoint x="620" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-9" value="Is deep link expired ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="750" width="100" height="80" as="geometry" />
+          <mxGeometry x="570" y="840" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-10" target="nUuFuTUnywf7_QC4D2Dj-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-10" value="New owner click deep link and redirect to hidden feature" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="545" y="640" width="130" height="60" as="geometry" />
+          <mxGeometry x="555" y="730" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-16" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="830" width="40" height="30" as="geometry" />
+          <mxGeometry x="620" y="920" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="607.4000000000001" y="970" as="targetPoint" />
+            <mxPoint x="617.4000000000001" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-17" value="Set reset command to lock through BLE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="545" y="880" width="125" height="70" as="geometry" />
+          <mxGeometry x="555" y="970" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-18" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="1000" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nUuFuTUnywf7_QC4D2Dj-20" value="Does the lock information still exist in the database?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="537.5" y="350" width="145" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
