@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T05:02:03.353Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-gUA-zvG8pgIB9Irr2Ik" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T07:39:19.275Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Oy95d2gaff3UljHEU8KZ" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1999" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="882" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -35,7 +35,7 @@
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-9" target="nUuFuTUnywf7_QC4D2Dj-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-9" value="Is deep link expired ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="nUuFuTUnywf7_QC4D2Dj-9" value="Is deep link expired ? 24 hours" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="275.5" y="740" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-10" target="nUuFuTUnywf7_QC4D2Dj-9" edge="1">
@@ -47,9 +47,6 @@
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-16" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="325.5" y="820" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-17" target="nUuFuTUnywf7_QC4D2Dj-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-17" value="Set reset&lt;br&gt;&amp;nbsp;command&amp;nbsp;to lock through BLE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260.5" y="870" width="125" height="70" as="geometry" />
         </mxCell>
@@ -59,20 +56,20 @@
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-23" target="nUuFuTUnywf7_QC4D2Dj-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-23" value="Does the lock information still &lt;br&gt;exist in the &lt;br&gt;database?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="nUuFuTUnywf7_QC4D2Dj-23" value="Does the lock information still &lt;br&gt;exist in the &lt;br&gt;database? (webadmin)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="253" y="180" width="145" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-26" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="325.5" y="290" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-29" value="Send deep link &lt;br&gt;to new &lt;br&gt;owner&#39;s email" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="nUuFuTUnywf7_QC4D2Dj-29" value="Send deep link &lt;br&gt;to new &lt;br&gt;owner&#39;s email (webAdmin)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="273" y="530" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-32" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="325.5" y="490" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-33" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="274.5" y="980" width="97" height="60" as="geometry" />
+          <mxGeometry x="268.5" y="1070" width="97" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-36" target="nUuFuTUnywf7_QC4D2Dj-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -109,6 +106,12 @@
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-46" value="Pamex internal process" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="438" y="630" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7IM0EK9eWYhkGylu9vJR-2" value="Save record to WebAdmin ?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="263" y="970" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7IM0EK9eWYhkGylu9vJR-3" value="app get close to lock" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="820" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
