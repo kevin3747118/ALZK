@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T00:07:50.844Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VPHaHpOuLTG3vSc6C7C_" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T00:11:42.607Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="t6D9vRvkRVz0G6w_wGho" version="22.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1499" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
         <mxCell id="kx3ettdFjvNoGLA_zDNN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-17" target="nUuFuTUnywf7_QC4D2Dj-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-17" value="Set reset&lt;br&gt;&amp;nbsp;command&amp;nbsp;to lock through BLE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="nUuFuTUnywf7_QC4D2Dj-17" value="Do reset&lt;br&gt;&amp;nbsp;operation to lock through BLE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="900" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-23" target="nUuFuTUnywf7_QC4D2Dj-1" edge="1">
@@ -65,8 +65,8 @@
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-26" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="272.5" y="210" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-29" value="Send a deep link &lt;br&gt;to the new &lt;br&gt;owner&#39;s email &lt;br&gt;from WebAdmin." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="450" width="105" height="60" as="geometry" />
+        <mxCell id="nUuFuTUnywf7_QC4D2Dj-29" value="Send a deep &lt;br&gt;linkto the new &lt;br&gt;owner&#39;s email &lt;br&gt;from WebAdmin." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="207.5" y="450" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-32" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="272.5" y="410" width="40" height="30" as="geometry" />
@@ -100,10 +100,10 @@
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-44" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="332.5" y="340" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-46" target="nUuFuTUnywf7_QC4D2Dj-29" edge="1">
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-46" target="nUuFuTUnywf7_QC4D2Dj-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="480" />
+              <mxPoint x="450" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -111,12 +111,12 @@
           <mxGeometry x="385" y="550" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7IM0EK9eWYhkGylu9vJR-2" value="Save record to WebAdmin ?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="477" y="890" width="125" height="70" as="geometry" />
+          <mxGeometry x="385" y="900" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kx3ettdFjvNoGLA_zDNN-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7IM0EK9eWYhkGylu9vJR-3" target="nUuFuTUnywf7_QC4D2Dj-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7IM0EK9eWYhkGylu9vJR-3" value="app get close to lock" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="7IM0EK9eWYhkGylu9vJR-3" value="The app approaches the Kapture lock" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="207.5" y="790" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
