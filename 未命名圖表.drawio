@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T00:41:13.224Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="C5tW9PgJieVF5nh1OnDm" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T06:49:20.553Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RhEuYM_mM4LlstcLEvkX" version="22.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1199" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="769" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -22,37 +22,6 @@
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-3" value="Pass the verification?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="222.5" y="330" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nUuFuTUnywf7_QC4D2Dj-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="273.75" y="670" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="273.75" y="950" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-9" target="nUuFuTUnywf7_QC4D2Dj-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-9" value="Is deep link expired ? 24 hours" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="223.75" y="820" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-10" target="nUuFuTUnywf7_QC4D2Dj-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-10" value="New owner clicks a deep link and redirect to the Kapture App&#39;s hidden feature" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="208.75" y="710" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-16" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="273.75" y="900" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kx3ettdFjvNoGLA_zDNN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-17" target="nUuFuTUnywf7_QC4D2Dj-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-17" value="Do reset&lt;br&gt;&amp;nbsp;operation to lock through BLE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="211.25" y="1060" width="125" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-23" target="nUuFuTUnywf7_QC4D2Dj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -65,23 +34,8 @@
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-26" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="272.5" y="210" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-29" value="Send a deep &lt;br&gt;link to the new &lt;br&gt;owner&#39;s email &lt;br&gt;from WebAdmin." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="207" y="612" width="130" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-32" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="272.5" y="410" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-33" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="225.25" y="1170" width="97" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-36" target="nUuFuTUnywf7_QC4D2Dj-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-36" value="Request&amp;nbsp;additional assistance from Pamex" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="386.25" y="830" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-38" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="333.75" y="830" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-40" value="Buy a new Kapture Lock" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="392" y="125" width="130" height="60" as="geometry" />
@@ -100,27 +54,10 @@
         <mxCell id="nUuFuTUnywf7_QC4D2Dj-44" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="332.5" y="340" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kx3ettdFjvNoGLA_zDNN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nUuFuTUnywf7_QC4D2Dj-46" target="nUuFuTUnywf7_QC4D2Dj-29">
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx3ettdFjvNoGLA_zDNN-24">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="451" y="647" />
-            </Array>
+            <mxPoint x="272.0256410256411" y="612" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nUuFuTUnywf7_QC4D2Dj-46" value="Pamex internal process" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="386.25" y="710" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7IM0EK9eWYhkGylu9vJR-2" value="Save record to WebAdmin ?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="386.25" y="1060" width="125" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="kx3ettdFjvNoGLA_zDNN-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7IM0EK9eWYhkGylu9vJR-3" target="nUuFuTUnywf7_QC4D2Dj-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7IM0EK9eWYhkGylu9vJR-3" value="The app approaches the Kapture lock" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="208.75" y="950" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kx3ettdFjvNoGLA_zDNN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx3ettdFjvNoGLA_zDNN-24" target="nUuFuTUnywf7_QC4D2Dj-29">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kx3ettdFjvNoGLA_zDNN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx3ettdFjvNoGLA_zDNN-24" target="kx3ettdFjvNoGLA_zDNN-29">
           <mxGeometry relative="1" as="geometry" />
@@ -142,6 +79,77 @@
         </mxCell>
         <mxCell id="kx3ettdFjvNoGLA_zDNN-33" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="352" y="475" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kx3ettdFjvNoGLA_zDNN-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="588.75" y="792" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx3ettdFjvNoGLA_zDNN-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="588.75" y="1072" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx3ettdFjvNoGLA_zDNN-37" target="kx3ettdFjvNoGLA_zDNN-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-37" value="Is deep link expired ? 24 hours" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="538.75" y="942" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx3ettdFjvNoGLA_zDNN-39" target="kx3ettdFjvNoGLA_zDNN-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-39" value="New owner clicks a deep link and redirect to the Kapture App&#39;s hidden feature" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="523.75" y="832" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-40" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="588.75" y="1022" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx3ettdFjvNoGLA_zDNN-42" target="kx3ettdFjvNoGLA_zDNN-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-42" value="Do reset&lt;br&gt;&amp;nbsp;operation to lock through BLE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="527" y="1230" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-43" value="Send a deep &lt;br&gt;link to the new &lt;br&gt;owner&#39;s email &lt;br&gt;from WebAdmin." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="522" y="734" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-44" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="541" y="1340" width="97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx3ettdFjvNoGLA_zDNN-46" target="kx3ettdFjvNoGLA_zDNN-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-46" value="Request&amp;nbsp;additional assistance from Pamex" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="701.25" y="952" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-47" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="648.75" y="952" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx3ettdFjvNoGLA_zDNN-49" target="kx3ettdFjvNoGLA_zDNN-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="766" y="769" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-49" value="Pamex internal process" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="701.25" y="832" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-50" value="Save record to WebAdmin ?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="701.25" y="1182" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx3ettdFjvNoGLA_zDNN-52" target="kx3ettdFjvNoGLA_zDNN-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-52" value="The app approaches the Kapture lock to click reset button" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="523.75" y="1072" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-54" value="Execute function &lt;br&gt;on WebAdmin&lt;br&gt;&amp;nbsp;(Master Code unavailable)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="206.25" y="612" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kx3ettdFjvNoGLA_zDNN-55" value="Master Code unavailable" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="528.75" y="660" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
