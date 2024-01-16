@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T01:25:36.206Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IORprST41UHFtkPHJG3z" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T01:28:00.865Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jN_He9uQilfG4iiZ6upP" version="22.1.18" type="github">
   <diagram name="第1頁" id="YNg0gWUeJbOVmAHeEk6T">
     <mxGraphModel dx="750" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,40 +26,40 @@
           <mxGeometry x="200" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f2guUyNeufH5UfrARlC-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="180" width="240" height="60" as="geometry" />
+          <mxGeometry x="210" y="180" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_f2guUyNeufH5UfrARlC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="280" width="240" height="60" as="geometry" />
+          <mxGeometry x="210" y="280" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_f2guUyNeufH5UfrARlC-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="380" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_f2guUyNeufH5UfrARlC-10" value="Manager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="273.33" y="194" width="64" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_f2guUyNeufH5UfrARlC-11" value="Tenant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="382" y="295" width="64" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_f2guUyNeufH5UfrARlC-12" value="Construction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="395" width="76" height="30" as="geometry" />
+          <mxGeometry x="210" y="380" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_f2guUyNeufH5UfrARlC-13" value="" style="shape=mxgraph.cisco.buildings.telecommuter_house_pc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="288" width="60" height="44" as="geometry" />
         </mxCell>
         <mxCell id="_f2guUyNeufH5UfrARlC-14" value="" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE1IiB2aWV3Qm94PSIwIDAgMjAgMTUiPiYjeGE7CTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+JiN4YTsJLnN0MHtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CTwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTMgN2gxNGwtNy03em0xNS41IDJoLTFhMS40NCAxLjQ0IDAgMCAwLS43NS4yMkExLjQ0IDEuNDQgMCAwIDAgMTYgOWgtMWExLjU0IDEuNTQgMCAwIDAtMS41IDEuNVYxNUgxNXYtNC41aDFWMTVoMS41di00LjVoMVYxNUgyMHYtNC41QTEuNTQgMS41NCAwIDAgMCAxOC41IDl6TTUgOUg0YTEuNDQgMS40NCAwIDAgMC0uNzUuMjJBMS40NCAxLjQ0IDAgMCAwIDIuNSA5aC0xQTEuNTQgMS41NCAwIDAgMCAwIDEwLjVWMTVoMS41di00LjVoMVYxNUg0di00LjVoMVYxNWgxLjV2LTQuNUExLjU0IDEuNTQgMCAwIDAgNSA5em0yLjUgMHY2aDV2LTEuNUg5di0uNzVoMi41di0xLjVIOXYtLjc1aDMuNVY5eiIvPiYjeGE7PC9zdmc+;" vertex="1" parent="1">
-          <mxGeometry x="226.66" y="392.5" width="46.67" height="35" as="geometry" />
+          <mxGeometry x="219.99999999999997" y="392.5" width="46.67" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_f2guUyNeufH5UfrARlC-15" value="" style="shape=mxgraph.cisco.buildings.small_business;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="186" width="60" height="44" as="geometry" />
+          <mxGeometry x="213.33" y="187" width="60" height="44" as="geometry" />
         </mxCell>
         <mxCell id="_f2guUyNeufH5UfrARlC-16" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" vertex="1" parent="1">
           <mxGeometry x="430" y="103" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="_f2guUyNeufH5UfrARlC-17" value="Tenant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="337.33" y="194" width="64" height="30" as="geometry" />
+        <mxCell id="_f2guUyNeufH5UfrARlC-19" value="Manager" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="70" height="16.88" as="geometry" />
         </mxCell>
-        <mxCell id="_f2guUyNeufH5UfrARlC-18" value="Construction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="401.33" y="192" width="76" height="30" as="geometry" />
+        <mxCell id="_f2guUyNeufH5UfrARlC-20" value="Tenant" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="373" y="190" width="70" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2guUyNeufH5UfrARlC-21" value="Construction" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="280" y="214.12" width="70" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2guUyNeufH5UfrARlC-23" value="Tenant" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="379" y="301.56" width="70" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2guUyNeufH5UfrARlC-24" value="Construction" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="379" y="401.56" width="70" height="16.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
