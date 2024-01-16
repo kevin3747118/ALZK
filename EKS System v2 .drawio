@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T06:57:21.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QpRz8M2inA5fbVg94LP-" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T01:25:36.206Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IORprST41UHFtkPHJG3z" version="22.1.18" type="github">
   <diagram name="第1頁" id="YNg0gWUeJbOVmAHeEk6T">
-    <mxGraphModel dx="1499" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="210" y="380" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_f2guUyNeufH5UfrARlC-10" value="Manager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="382" y="195" width="64" height="30" as="geometry" />
+          <mxGeometry x="273.33" y="194" width="64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f2guUyNeufH5UfrARlC-11" value="Tenant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="382" y="295" width="64" height="30" as="geometry" />
@@ -54,6 +54,12 @@
         </mxCell>
         <mxCell id="_f2guUyNeufH5UfrARlC-16" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" vertex="1" parent="1">
           <mxGeometry x="430" y="103" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2guUyNeufH5UfrARlC-17" value="Tenant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="337.33" y="194" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2guUyNeufH5UfrARlC-18" value="Construction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="401.33" y="192" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
