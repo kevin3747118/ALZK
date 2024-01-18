@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T00:17:12.173Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="28HB8NmW0_kRaRoG_qFY" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T00:28:31.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MdHAjbdqkfHbyGb-39eK" version="22.1.18" type="github">
   <diagram name="第1頁" id="YNg0gWUeJbOVmAHeEk6T">
     <mxGraphModel dx="1098" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
         <mxCell id="SUhrCrvjjD-GqcbZrBsL-3" value="Unlock/Lock" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#E6E6E6;align=center;strokeColor=#B3B3B3;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="389.99" y="820" width="70.01" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SUhrCrvjjD-GqcbZrBsL-4" value="Battery: 78%&lt;br&gt;Bluetooth: Good&lt;br&gt;Mechanical: &lt;font color=&quot;#ff3333&quot;&gt;Door alignment Issue&lt;/font&gt;&lt;br&gt;etc..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SUhrCrvjjD-GqcbZrBsL-4" value="Battery: 78%&lt;br&gt;Bluetooth: Good&lt;br&gt;Mechanical: &lt;font color=&quot;#ff3333&quot;&gt;Door alignment Issue&lt;/font&gt;&lt;br&gt;etc..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="231.66" y="900" width="196.67" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SUhrCrvjjD-GqcbZrBsL-8" value="Recovery" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#E6E6E6;align=center;strokeColor=#B3B3B3;fontColor=#333333;" vertex="1" parent="1">
