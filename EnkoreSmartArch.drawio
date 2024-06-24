@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T07:00:43.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TcQ4776fRQTfdFHOwXsH" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T07:00:56.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Psre6vLmAiKS0Zs2M-Ob" version="23.1.5" type="github">
   <diagram name="第1頁" id="1wklVr72N6ZmMu-Cdv6m">
     <mxGraphModel dx="1199" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="402.3" y="330" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8QyEa9IOrjfCE1RIOH5n-24" value="Bluetooth" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="452.3" y="330" width="66" height="25" as="geometry" />
+          <mxGeometry x="462.3" y="330" width="66" height="25" as="geometry" />
         </mxCell>
         <mxCell id="8QyEa9IOrjfCE1RIOH5n-25" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
           <mxGeometry x="402.3" y="210" width="60" height="66" as="geometry" />
