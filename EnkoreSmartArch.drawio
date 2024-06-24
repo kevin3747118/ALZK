@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T06:33:09.170Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-_b7_Mf6inGKXw9Ap3rq" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T06:33:32.815Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1Jzi-YA1FBTj3ugEk-dt" version="23.1.5" type="github">
   <diagram name="第1頁" id="1wklVr72N6ZmMu-Cdv6m">
     <mxGraphModel dx="1199" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,10 +16,10 @@
         <mxCell id="8QyEa9IOrjfCE1RIOH5n-4" value="Auth Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8QyEa9IOrjfCE1RIOH5n-6" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="8QyEa9IOrjfCE1RIOH5n-6" value="MF-Admin DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8QyEa9IOrjfCE1RIOH5n-7" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="8QyEa9IOrjfCE1RIOH5n-7" value="Auth DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8QyEa9IOrjfCE1RIOH5n-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8QyEa9IOrjfCE1RIOH5n-7">
