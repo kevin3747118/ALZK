@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T06:34:44.977Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jnKbLoUUU2ayjPgFt25s" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T06:35:19.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tiZDD5Z9zih8muaZpgT3" version="23.1.5" type="github">
   <diagram name="第1頁" id="1wklVr72N6ZmMu-Cdv6m">
     <mxGraphModel dx="1199" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,6 +38,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="240" as="sourcePoint" />
             <mxPoint x="280" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QyEa9IOrjfCE1RIOH5n-14" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="56" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8QyEa9IOrjfCE1RIOH5n-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.536;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8QyEa9IOrjfCE1RIOH5n-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="150" as="sourcePoint" />
+            <mxPoint x="460" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="150" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
