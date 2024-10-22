@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-10-22T06:36:27.708Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" etag="SSF8s909Rj4MrqMktU3Q" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-10-22T06:38:04.315Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" etag="gyleiTldUFCod_JjSbVJ" version="24.6.2" type="github">
   <diagram name="第1頁" id="7wkVwEU48nWs9jgTjcIm">
     <mxGraphModel dx="1479" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,13 +47,13 @@
           <mxGeometry x="110" y="80" width="120.48" height="132" as="geometry" />
         </mxCell>
         <mxCell id="TsW-td-MdFtUd3CGEHZs-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.epicloud.com.tw/wp-content/uploads/2020/08/cloud-lockup-logo.png;" vertex="1" parent="1">
-          <mxGeometry x="550" y="292" width="152.44" height="85.75" as="geometry" />
+          <mxGeometry x="524.66" y="285.88" width="174.22" height="98" as="geometry" />
         </mxCell>
         <mxCell id="TsW-td-MdFtUd3CGEHZs-27" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
-          <mxGeometry x="980" y="242" width="39" height="50" as="geometry" />
+          <mxGeometry x="970.5" y="242" width="39" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TsW-td-MdFtUd3CGEHZs-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="726.11" y="267.75" width="168.77999999999997" height="110" as="geometry" />
+          <mxGeometry x="730.0000000000001" y="279.88" width="168.77999999999997" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TsW-td-MdFtUd3CGEHZs-28" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;container=0;" vertex="1" parent="TsW-td-MdFtUd3CGEHZs-33">
           <mxGeometry width="168.78" height="110" as="geometry" />
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TsW-td-MdFtUd3CGEHZs-34" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="1">
-          <mxGeometry x="980" y="360" width="60" height="47.400000000000006" as="geometry" />
+          <mxGeometry x="960" y="336.48" width="60" height="47.400000000000006" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
