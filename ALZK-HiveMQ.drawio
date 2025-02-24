@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKqKOulp7S16YsBjdaTP-1" value="MQTT Clients&lt;div&gt;&amp;nbsp;(TLS 8883 + Certificate)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="60" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vKqKOulp7S16YsBjdaTP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vKqKOulp7S16YsBjdaTP-2" target="vKqKOulp7S16YsBjdaTP-4">
           <mxGeometry relative="1" as="geometry" />
