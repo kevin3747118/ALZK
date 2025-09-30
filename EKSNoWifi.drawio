@@ -10,7 +10,7 @@
         <mxCell id="_0QAA5KOcGjNJ8o1P5Sd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_0QAA5KOcGjNJ8o1P5Sd-1" target="_0QAA5KOcGjNJ8o1P5Sd-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_0QAA5KOcGjNJ8o1P5Sd-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Pamex/&lt;/font&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Project Manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_0QAA5KOcGjNJ8o1P5Sd-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Pamex/&lt;/font&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Job Site Manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="312" y="110" width="204" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_0QAA5KOcGjNJ8o1P5Sd-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;EKS Cloud&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(Central Platform)&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -81,6 +81,57 @@
         </mxCell>
         <mxCell id="_0QAA5KOcGjNJ8o1P5Sd-37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;Send data&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;&amp;nbsp;to door lock&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;over Bluetooth&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="590" y="555.4" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-6" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_rect" vertex="1" parent="1">
+          <mxGeometry x="184" y="1050" width="296" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1350.4" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-8" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.lock" vertex="1" parent="1">
+          <mxGeometry x="246" y="1479.48" width="46" height="58.97" as="geometry" />
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="268.5" y="1470.4" as="sourcePoint" />
+            <mxPoint x="268.5" y="1400.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" source="OR8md_O9xc7MBORGEWN8-25" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230.0019999999999" y="1219" as="sourcePoint" />
+            <mxPoint x="270" y="1169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Project A&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="187" y="1060" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-15" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bluetooth;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="277" y="1420.51" width="15" height="28.799999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;Send data&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;&amp;nbsp;to door lock&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;over Bluetooth&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="288" y="1404.91" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-3" value="&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Job Site Manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="1100" width="204" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-25" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.laptop;" vertex="1" parent="1">
+          <mxGeometry x="232" y="1230" width="74" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Configure project&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;settings locally&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1180" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="269" y="1341" as="sourcePoint" />
+            <mxPoint x="270" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;Sync data&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;&amp;nbsp;to&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;tablet&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;over Wi-Fi&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="312" y="1290.5" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OR8md_O9xc7MBORGEWN8-28" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="282.3" y="1305" width="29.7" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
