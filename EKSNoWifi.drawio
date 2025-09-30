@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_0QAA5KOcGjNJ8o1P5Sd-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Project B&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="535" y="443.01" width="90" height="30" as="geometry" />
+          <mxGeometry x="534" y="450" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_0QAA5KOcGjNJ8o1P5Sd-36" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bluetooth;pointerEvents=1" vertex="1" parent="1">
           <mxGeometry x="567" y="571" width="15" height="28.799999999999997" as="geometry" />
